@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/E-commerce-Filtring-and-Sesrching/static/css/main.ce38ee37.css",
+    "main.js": "/E-commerce-Filtring-and-Sesrching/static/js/main.a8631cb5.js",
+    "index.html": "/E-commerce-Filtring-and-Sesrching/index.html",
+    "main.ce38ee37.css.map": "/E-commerce-Filtring-and-Sesrching/static/css/main.ce38ee37.css.map",
+    "main.a8631cb5.js.map": "/E-commerce-Filtring-and-Sesrching/static/js/main.a8631cb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce38ee37.css",
+    "static/js/main.a8631cb5.js"
+  ]
+}
